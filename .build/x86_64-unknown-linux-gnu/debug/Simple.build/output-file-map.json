@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/mason-williams/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/mason-williams/Digital Portfolio/CS-II/Projects/BubbleSort/main.swift": {
+    "dependencies": "/home/mason-williams/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/mason-williams/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/mason-williams/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/mason-williams/Digital Portfolio/CS-II/Projects/BubbleSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
